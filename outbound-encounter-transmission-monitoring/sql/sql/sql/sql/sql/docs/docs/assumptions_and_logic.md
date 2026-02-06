@@ -1,0 +1,5 @@
+- Only outbound encounters are included
+- Disposition 4 is excluded (cancelled/invalid)
+- Rolling 12-day window supports operational monitoring
+- Pending acknowledgment indicates no receiver confirmation
+- Acceptance percentage = Accepted / Total encounters
