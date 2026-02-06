@@ -10,3 +10,4 @@ This portfolio contains SQL and BI projects focused on healthcare and operations
 1. Claims & Encounter Data Validation (SQL + Excel/Power BI)
 2. Source-to-Target Reconciliation Checks (SQL)
 3. Reporting QA / UAT Test Pack (SQL + documentation)
+4. Outbound Encounter Transmission Monitoring (SQL)
