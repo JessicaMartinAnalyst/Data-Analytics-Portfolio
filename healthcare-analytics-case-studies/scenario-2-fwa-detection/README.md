@@ -24,11 +24,11 @@ Investigators came in with instinct, not specifications — they could describe 
 
 ![FWA Exception Dashboard mockup](../assets/fwa_exception_dashboard_mockup.png)
 
-*Dashboard mockup populated with real output from the actual SQL running against the synthetic sample data in this repo — not placeholder numbers.*
+*Dashboard mockup populated with real output from the actual SQL running against the synthetic sample data in this repo, not placeholder numbers.*
 
 ## Outcome
 
-The analysis isolated multiple high-yield outlier targets, uncovering major upcoding operations and prescription drug diversion rings — protecting millions of dollars in taxpayer funds and helping shield vulnerable patient populations from systemic medication abuse.
+The analysis isolated multiple high-yield outlier targets, uncovering major upcoding operations and prescription drug diversion rings,  protecting millions of dollars in taxpayer funds and helping shield vulnerable patient populations from systemic medication abuse.
 
 ## Contents
 
